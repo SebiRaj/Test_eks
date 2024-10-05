@@ -1,0 +1,42 @@
+.terraform
+.terraform.lock.hcl
+   ../../-1.14-windows.xml
+        ../../.VirtualBox/
+        ../../.aws/
+        ../../.bash_history
+        ../../.cache/
+        ../../.docker/
+        ../../.gem/
+        ../../.gitconfig
+        ../../.idlerc/
+        ../../.kube/
+        ../../.lesshst
+        ../../.redhat/
+        ../../.ssh/
+        ../../.vagrant.d/
+        ../../.viminfo
+        ../../.vscode/
+        ../../AppData/
+        ../../Contacts/
+        ../../Downloads/
+        ../../Favorites/
+        ../../Git_Practice/
+        ../../IntelGraphicsProfiles/
+        ../
+        ../../Links/
+        ../../Music/
+        ../../NTUSER.DAT
+        ../../NTUSER.DAT{49211f8b-b1f6-11ed-a373-a7c4015798fd}.TM.blf
+        ../../NTUSER.DAT{49211f8b-b1f6-11ed-a373-a7c4015798fd}.TMContainer00000000000000000001.regtrans-ms
+        ../../NTUSER.DAT{49211f8b-b1f6-11ed-a373-a7c4015798fd}.TMContainer00000000000000000002.regtrans-ms
+        ../../OneDrive/
+        ../../Saved Games/
+        ../../Searches/
+        ../../Terraform_Practice/
+        ../../Videos/
+        ../../VirtualBox VMs/
+        ../../jhooq/
+        ../../ntuser.dat.LOG1
+        ../../ntuser.dat.LOG2
+        ../../ntuser.ini
+        ../../requirements.txt
